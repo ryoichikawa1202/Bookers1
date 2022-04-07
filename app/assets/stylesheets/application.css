@@ -24,3 +24,7 @@ label {
 .field, .actions{
   margin-bottom: 10px;
 }
+
+a {
+  color: black;
+}
